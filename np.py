@@ -147,4 +147,5 @@ a = np.array([[1,2],[3,4]],dtype='i1')
 print(a,'\n')
 b = np.tile(a,(2,3))  #2 * 3 个 A 组成新数组
 print(b)
-print('end-----')
+print('-----end-----')
+
